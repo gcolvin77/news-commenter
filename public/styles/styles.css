@@ -1,0 +1,28 @@
+.list-group-item {
+  line-height: 2.5;
+}
+
+.jumbotron {  
+  background-size: cover; 
+  background-position: center center;
+  background-image: url("../assets/NYTIMES.jpg");
+  text-align: center;
+}
+
+
+#mainTitle{
+  font-weight: bold;
+  color: yellow;
+  font-size: 70px;
+  text-shadow: 4px 3px black;
+}
+
+.nav-item{
+  padding-left: 10px;
+}
+
+.btn{
+  color: black;
+  background-color: yellow;
+
+}
